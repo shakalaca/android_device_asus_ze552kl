@@ -13,3 +13,7 @@ on init
 
 service qseecomd /system/bin/qseecomd
     disabled
+
+on fs
+    wait /dev/block/bootdevice/by-name/factory
+    mount ext4 /dev/block/bootdevice/by-name/factory /factory ro
