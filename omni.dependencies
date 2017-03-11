@@ -1,3 +1,21 @@
+    IW   omni.dependencies                         Row 6    Col 1    5:49  Ctrl-K H for help
 [
-
+  {
+    "remote": "github",
+    "repository": "shakalaca/android_kernel_asus_ze552kl",
+    "revision": "master",
+    "target_path": "kernel/asus/ze552kl"
+  },
+  {
+    "remote": "aosp",
+    "repository": "platform/external/protobuf",
+    "revision": "refs/tags/android-6.0.1_r74",
+    "target_path": "external/protobuf"
+  },
+  {
+    "remote": "aosp",
+    "repository": "platform/external/liblzf",
+    "revision": "refs/tags/android-6.0.1_r74",
+    "target_path": "external/liblzf"
+  }
 ]
