@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "shakalaca/android_kernel_asus_ze552kl",
     "revision": "android-7.0",
-    "target_path": "kernel/asus/ze552kl"
+    "target_path": "kernel/asus/Z012"
   },
   {
     "remote": "github",

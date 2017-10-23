@@ -1,3 +1,6 @@
 ro.build.model=ASUS_Z012DA
-ro.build.device=ze552kl
+ro.build.device=Z012
+ro.product.device=ASUS_Z012D
+ro.product.model=ASUS_Z012DA
+# for stock ROM
 ro.product.name=OPEN_Phone
